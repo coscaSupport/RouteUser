@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-12",
+  "revoked": ["발급번호1", "발급번호2"],
+  "signature": "서명값"
+}
