@@ -1,6 +1,9 @@
 {
   "version": 1,
   "updatedAt": "2026-09-12",
-  "revoked": ["1788873185353-DE2619FA-mty6p8nv"],
-  "signature": "fglj+vuW1vH9yNmuTOsvq8ugrd4bJGenRBN0Psa5V2D3HiD414/B5rCALF+maZ5jn7pZKKaDRBI41ENgc2gZCQ=="
+  "revoked": [
+    "1788873185353-DE2619FA-mty6p8nv",
+    "1788873185353-DE2619FA-mty7af4n"
+  ],
+  "signature": "rghlLyrWZSABZbx2evb0A9PH43nvLIME+Sg1Yqy\/rTU\/tj6JL7i6OO0+vpYTeoVlSQcz3roIxPVL3a6hE+NXAA=="
 }
